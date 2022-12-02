@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alena (friends call me Ali)
+- 🌱 I’m currently finishing my studies as software developer
+- 💞️ I’m looking for internship or entry level positions/projects where I can master my skills
