@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Alena (friends call me Ali)
-- 🌱 I’m currently finishing my studies as software developer
-- 💞️ I’m looking for internship or entry level positions/projects. Can't wait to start mastering my skills
+Hi, I’m Alena (friends call me Ali)
+🌱 I’m currently working as a junior developer
+💻 I'm excited to continue growing my skills and contribute to new projects!
